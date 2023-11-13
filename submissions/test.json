@@ -1,6 +1,6 @@
 {
   "payload": {
-    "repositoryURL": "https://github.com/nasa/Open-Source-Catalog",
+    "repositoryURL": "https://developer.nasa.gov/OpenInnovation/code-submission-app",
     "homepageURL": "",
     "downloadURL": "",
     "disclaimerURL": "",
@@ -8,7 +8,7 @@
     "languages": [
       "JavaScript"
     ],
-    "name": "test2-2023",
+    "name": "test-plz-delete",
     "contributors": [
       {
         "name": "daniel",
@@ -17,11 +17,11 @@
       }
     ],
     "tags": [
-      "tag1",
-      "tag2",
-      "tag2"
+      "test",
+      "test2",
+      "test3"
     ],
-    "description": "test update",
+    "description": "test-plz-delete",
     "contact": {
       "email": "daniel.c.rendon@nasa.gov",
       "name": "",
@@ -29,9 +29,9 @@
       "URL": ""
     },
     "date": {
-      "lastModified": "2023-03-03",
-      "metadataLastUpdated": "2023-02-01",
-      "created": "2023-03-01"
+      "lastModified": "2023-01-31",
+      "metadataLastUpdated": "2023-01-20",
+      "created": "2023-01-31"
     },
     "organization": "JSC",
     "permissions": {
@@ -43,12 +43,8 @@
       ],
       "usageType": "openSource",
       "exemptionText": null
-    },
-    "date_AI_tags": "2023_January_31_at_08_11AM",
-    "sti_keywords_passed_thresholds": "",
-    "service_version": "",
-    "local-id": "33ca7d3c-8277-4c10-b2cd-7497530955a6"
+    }
   },
-  "contact_email": "381H3i9dHDeAIp7kl+FacOum2OEZjeEVy4DYr7u13H2vpxoOdkH2zA==",
-  "nonce": "NfuSFe4TQTs5x0htYx9fdJmhkLfTeRdu"
+  "contact_email": "hcPWNDjtq4858WqhMwZqtXfxmB3+I9x6qOpuf8POo8ixEO/soe7i2Q==",
+  "nonce": "R1sp2mwVn8S1+D8FUyDieGzBqP2sPRGz"
 }
